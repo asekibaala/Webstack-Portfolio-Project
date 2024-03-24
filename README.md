@@ -1,5 +1,5 @@
 # Housify
-![Housify](https://github.com/emmaudeji/Webstack-Portfolio-Project/blob/main/welcome.png)
+![Housify](https://github.com/asekibaala/Webstack-Portfolio-Project/welcome.png)
 
 `Group project` `Web Portfolio project`
 
